@@ -1,0 +1,20 @@
+﻿  TileMgr.cpp
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(126): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagBodyInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(138): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagHairInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(150): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagHandsInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(161): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagShirtInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(188): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagImgInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\tilemgr.cpp(186): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\tilemgr.cpp(225): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Farm.cpp
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(126): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagBodyInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(138): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagHairInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(150): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagHandsInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(161): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagShirtInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\struct.h(188): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tagImgInfo' 왼쪽은 무시됩니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\farm.cpp(76): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\farm.cpp(77): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\re___\onedrive\바탕 화면\신하니\frame127\farm.cpp(95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Frame127.vcxproj -> C:\Users\re___\OneDrive\바탕 화면\신하니\Debug\API_HANI.exe
+  Frame127.vcxproj -> C:\Users\re___\OneDrive\바탕 화면\신하니\Debug\API_HANI.pdb (Full PDB)
